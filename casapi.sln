@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casapi", "casapi\casapi.csproj", "{1644DF38-7F68-4FC9-92D5-D430BFF56149}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{361492E2-50F2-4A34-81A2-B74F19DC0868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1644DF38-7F68-4FC9-92D5-D430BFF56149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1644DF38-7F68-4FC9-92D5-D430BFF56149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1644DF38-7F68-4FC9-92D5-D430BFF56149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1644DF38-7F68-4FC9-92D5-D430BFF56149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361492E2-50F2-4A34-81A2-B74F19DC0868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361492E2-50F2-4A34-81A2-B74F19DC0868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361492E2-50F2-4A34-81A2-B74F19DC0868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361492E2-50F2-4A34-81A2-B74F19DC0868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF3BFE7-008F-4166-BCE1-5AA9393BA54B}
+	EndGlobalSection
+EndGlobal
